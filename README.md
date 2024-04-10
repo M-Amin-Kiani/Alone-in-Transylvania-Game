@@ -7,4 +7,3 @@ How To Play? Just Open .\Playexe\AloneInTransylvania.exe  ==> Run and Start the 
 .
 .
 .
-[Uploading معرفی کلی پروژه بازی سازی_ محمد امین کیانی 4003613052.pdf…]()
