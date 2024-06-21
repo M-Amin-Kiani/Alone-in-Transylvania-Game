@@ -4,8 +4,8 @@ How To Play?
 - Then Open .\Playexe\AloneInTransylvania.exe  ==> Run and Start the game...
 
  ## Control buttons :
---   W = moving forward
---   D = go right
+-   W = moving forward
+-   D = go right
 -   S = go back
 -   A = go left
 -   Right Click = Shoot
