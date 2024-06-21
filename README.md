@@ -5,7 +5,7 @@ How To Play?
 
  ## Control buttons :
 --   W = moving forward
--   D = go right
+--   D = go right
 -   S = go back
 -   A = go left
 -   Right Click = Shoot
