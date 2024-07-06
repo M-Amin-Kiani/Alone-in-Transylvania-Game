@@ -1,0 +1,174 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2507)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Final\AloneInTransylvania_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.267 seconds
+Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.371100 ms
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 5630 -> priority: 1 
+  Thread -> id: 17d8 -> priority: 1 
+  Thread -> id: df8 -> priority: 1 
+  Thread -> id: 2710 -> priority: 1 
+  Thread -> id: 465c -> priority: 1 
+  Thread -> id: 4b4c -> priority: 1 
+  Thread -> id: 1bb4 -> priority: 1 
+  Thread -> id: 4cc -> priority: 1 
+  Thread -> id: 4b98 -> priority: 1 
+  Thread -> id: 4614 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 440.940399 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 0.417400 ms (FindLiveObjects: 0.012300 ms CreateObjectMapping: 0.016500 ms MarkObjects: 0.103800 ms  DeleteObjects: 0.284200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.248500 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5220.
+Total: 1.046900 ms (FindLiveObjects: 0.166200 ms CreateObjectMapping: 0.022600 ms MarkObjects: 0.336900 ms  DeleteObjects: 0.520600 ms)
+
+UnityException: Tag: Tile is not defined.
+  at (wrapper managed-to-native) UnityEngine.Component:CompareTag (string)
+  at PlayerController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Player detected!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityException: Tag: Tile is not defined.
+  at (wrapper managed-to-native) UnityEngine.Component:CompareTag (string)
+  at PlayerController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.765000 ms
+
+Unloading 382 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 6.134800 ms (FindLiveObjects: 0.116700 ms CreateObjectMapping: 0.023100 ms MarkObjects: 0.208800 ms  DeleteObjects: 5.785100 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 394.306824 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 1.110300 ms (FindLiveObjects: 0.052100 ms CreateObjectMapping: 0.033400 ms MarkObjects: 0.370400 ms  DeleteObjects: 0.653000 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.262200 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 5223.
+Total: 0.732200 ms (FindLiveObjects: 0.091100 ms CreateObjectMapping: 0.021000 ms MarkObjects: 0.312600 ms  DeleteObjects: 0.307100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.955300 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 5223.
+Total: 0.469800 ms (FindLiveObjects: 0.134600 ms CreateObjectMapping: 0.020900 ms MarkObjects: 0.300900 ms  DeleteObjects: 0.012700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.114300 ms
+
+Unloading 374 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 2.613900 ms (FindLiveObjects: 0.015400 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.114600 ms  DeleteObjects: 2.467900 ms)
+
