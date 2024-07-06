@@ -7,44 +7,682 @@ Direct3D:
     VRAM:     3072 MB
     Driver:   31.0.15.3623
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\Final\AloneInTransylvania_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\Final\AloneInTransylvania_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.267 seconds
-Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\Final\AloneInTransylvania_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.296 seconds
+Platform assembly: C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Almahdi\Desktop\GitGame\Alone-in-Transylvania-Game\Playexe\AloneInTransylvania_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.371100 ms
+UnloadTime: 0.762800 ms
 Setting up 10 worker threads for Enlighten.
-  Thread -> id: 5630 -> priority: 1 
-  Thread -> id: 17d8 -> priority: 1 
-  Thread -> id: df8 -> priority: 1 
-  Thread -> id: 2710 -> priority: 1 
-  Thread -> id: 465c -> priority: 1 
-  Thread -> id: 4b4c -> priority: 1 
-  Thread -> id: 1bb4 -> priority: 1 
-  Thread -> id: 4cc -> priority: 1 
-  Thread -> id: 4b98 -> priority: 1 
-  Thread -> id: 4614 -> priority: 1 
+  Thread -> id: c84 -> priority: 1 
+  Thread -> id: 3404 -> priority: 1 
+  Thread -> id: 1f98 -> priority: 1 
+  Thread -> id: 3660 -> priority: 1 
+  Thread -> id: 4f14 -> priority: 1 
+  Thread -> id: 2260 -> priority: 1 
+  Thread -> id: 2ca4 -> priority: 1 
+  Thread -> id: 2f94 -> priority: 1 
+  Thread -> id: 54d4 -> priority: 1 
+  Thread -> id: 42e0 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 440.940399 ms
+UnloadTime: 438.598999 ms
 
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 400.
-Total: 0.417400 ms (FindLiveObjects: 0.012300 ms CreateObjectMapping: 0.016500 ms MarkObjects: 0.103800 ms  DeleteObjects: 0.284200 ms)
+Total: 0.672200 ms (FindLiveObjects: 0.020500 ms CreateObjectMapping: 0.012200 ms MarkObjects: 0.170100 ms  DeleteObjects: 0.468900 ms)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Default-Particle from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load UISprite from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Background from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Stone8 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Cactus_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Book_DefaultMaterial_AO from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load HorrorWeaponSet1_blood_diffSpec from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load WFX_T_SmallDots A8 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Armchair_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Chair_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Bad_d from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load pumpkin_king_metal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Armchair_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load WFX_T_SmokeLoopAlpha Average from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Book_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load true_clown_diffuse1 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Chair_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load LampEmission from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Table_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load dummy_normals from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load WFX_T_MF FrontRear RIFLE1 A8 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Table_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load 3dst41_textured from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load FP650_n from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Dirt from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Wood2 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load AlbedoDryTree from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Armchair_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Shelf_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load CabelsDiffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load workerSubs_worker_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Door_d from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load wood_0060_color_1k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load PillowChair_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Img_Floor_Diffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Slide_Reference_Front from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load DryTree_Spec from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load pumpkin_king_normals from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load e67d372b-7e0f-4937-8804-344f638c6e8d-2-Sammee-Wikimedia-Commons from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load fern from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load wood_0060_normal_directx_1k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Book_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Pillow2_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Book_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load WFX_T_FlamesBig from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Book_DefaultMaterial_AO from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load old wood from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load DoorwayNormals from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load wood_0060_color_1k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load WoodFloor4 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load decals_0008_normal_opengl_2k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load PillowChair_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load images from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load true_scarecrow_normals from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Rust from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load DryTree_NRM from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Shelf1_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Stone9 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Rust3 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load wood_0060_normal_directx_1k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load crawler_diffuse 1 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load ElectricalPanel_n from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Cactus_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Pot_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load images  from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Cactus_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Pillow2_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load OldCupDiffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Book_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load WFX_T_MF Sparks RIFLE1 A8 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load WFX_T_FlamesSmall 4frm from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Chair_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load true_scarecrow_diffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load wood_0060_normal_directx_1k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Shelf_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load WFX_T_SmokeLoopAlpha from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Shelf_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load ElectricalPanelDiffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load true_clown_normals from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load DoorwayDiffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load FloorTile from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Bad_n from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load WFXM_T_NukeFlames from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load WFX_T_Debris Generic from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load OldCupNormal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Slide_Reference_Side from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load SDNormal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Shelf1_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Slide_Reference_Back from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Slide_Reference_Side_2 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Book_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Shelf1_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load wood_0060_normal_opengl_1k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Book_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load wood_0060_color_1k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Book_DefaultMaterial_AO from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load crawler_normals from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Table_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load PauseIcon from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Chair_DefaultMaterial_AO from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load true_scarecrow_metal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Pot_DefaultMaterial_Normal from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load WallsStone from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load others_0015_normal_directx_2k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load WFX_T_GlowCircle A8 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Dirt2 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Book_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Gold4 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Pot_DefaultMaterial_AO from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load Dirt4 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load HandUI from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load wood_0060_color_1k from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Book_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load FP650_Diffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Pot_DefaultMaterial_AlbedoTransparency from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load dummy_diffuse1 from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load old wood from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load Book_DefaultMaterial_MetallicSmoothness from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load ShirtLessBrownGlovesClean from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load pumpkin_king_diffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load HorrorWeaponSet1_blood_norm from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
+
+async texture load: failed to load LampDiffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+async texture load: failed to load SDDiffuse from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+Could not open file C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS for read
+ 
+(Filename:  Line: 56)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.248500 ms
+async texture load: failed to load gradsIII from C:/Users/Almahdi/Desktop/GitGame/Alone-in-Transylvania-Game/Playexe/AloneInTransylvania_Data/sharedassets2.assets.resS
+UnloadTime: 1.238500 ms
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5220.
-Total: 1.046900 ms (FindLiveObjects: 0.166200 ms CreateObjectMapping: 0.022600 ms MarkObjects: 0.336900 ms  DeleteObjects: 0.520600 ms)
+Total: 1.082300 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.021800 ms MarkObjects: 0.343600 ms  DeleteObjects: 0.573200 ms)
+
+UnityException: Tag: Tile is not defined.
+  at (wrapper managed-to-native) UnityEngine.Component:CompareTag (string)
+  at PlayerController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Tag: Tile is not defined.
+  at (wrapper managed-to-native) UnityEngine.Component:CompareTag (string)
+  at PlayerController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.905900 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 5223.
+Total: 0.653100 ms (FindLiveObjects: 0.185700 ms CreateObjectMapping: 0.039200 ms MarkObjects: 0.408800 ms  DeleteObjects: 0.018400 ms)
 
 UnityException: Tag: Tile is not defined.
   at (wrapper managed-to-native) UnityEngine.Component:CompareTag (string)
@@ -56,119 +694,103 @@ Player detected!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot shoot
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
 UnityException: Tag: Tile is not defined.
   at (wrapper managed-to-native) UnityEngine.Component:CompareTag (string)
   at PlayerController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.765000 ms
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 382 unused Assets to reduce memory usage. Loaded Objects now: 357.
-Total: 6.134800 ms (FindLiveObjects: 0.116700 ms CreateObjectMapping: 0.023100 ms MarkObjects: 0.208800 ms  DeleteObjects: 5.785100 ms)
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 394.306824 ms
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 385.
-Total: 1.110300 ms (FindLiveObjects: 0.052100 ms CreateObjectMapping: 0.033400 ms MarkObjects: 0.370400 ms  DeleteObjects: 0.653000 ms)
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot shoot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.262200 ms
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 5223.
-Total: 0.732200 ms (FindLiveObjects: 0.091100 ms CreateObjectMapping: 0.021000 ms MarkObjects: 0.312600 ms  DeleteObjects: 0.307100 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.955300 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 5223.
-Total: 0.469800 ms (FindLiveObjects: 0.134600 ms CreateObjectMapping: 0.020900 ms MarkObjects: 0.300900 ms  DeleteObjects: 0.012700 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.114300 ms
+UnloadTime: 3.043900 ms
 
 Unloading 374 unused Assets to reduce memory usage. Loaded Objects now: 410.
-Total: 2.613900 ms (FindLiveObjects: 0.015400 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.114600 ms  DeleteObjects: 2.467900 ms)
+Total: 2.782000 ms (FindLiveObjects: 0.052500 ms CreateObjectMapping: 0.018300 ms MarkObjects: 0.100200 ms  DeleteObjects: 2.610000 ms)
 
