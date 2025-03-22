@@ -1,3 +1,98 @@
+
+# 🕹️ Alone in Transylvania Game | بازی تنها در ترانسیلوانیا
+
+---
+
+## 📌 Overview | معرفی
+
+🎮 **Alone in Transylvania** is a 3D horror-survival game developed by Mohammad Amin Kiani.  
+🧛 **تنها در ترانسیلوانیا** یک بازی ترس و بقا است که توسط محمد امین کیانی طراحی و توسعه داده شده است.
+
+---
+
+## 🛠️ Requirements | پیش‌نیازها
+
+- ✅ Windows OS  
+- 📦 No additional software is required – the game runs independently.  
+- 💻 سیستم‌عامل: ویندوز  
+- 🧾 نیاز به نصب هیچ برنامه‌ای نیست؛ بازی به صورت مستقل اجرا می‌شود.
+
+---
+
+## 📁 Folder Structure | ساختار پوشه‌ها
+
+```
+Alone-in-Transylvania-Game/
+├── Assets/
+├── Library/
+├── Playexe/
+│   └── AloneInTransylvania.exe
+├── ProjectSettings/
+├── gameDocs_4003613052.rar
+├── present.pdf
+├── AminKiani4003613052.pdf
+├── *.csproj files
+└── README.md
+```
+
+---
+
+## 🚀 How to Run | نحوه اجرای بازی
+
+1. 📥 **Download and extract the repository**  
+   ⬇️ ریپازیتوری را دانلود و در یک پوشه دلخواه استخراج کنید.
+
+2. 📂 **Unzip `sharedassets2.assets.rar` into `AloneInTransylvania_Data` folder**  
+   📦 فایل `sharedassets2.assets.rar` را در پوشه‌ی `AloneInTransylvania_Data` اکسترکت کنید.
+
+3. ▶️ **Navigate to `Playexe/` and run `AloneInTransylvania.exe`**  
+   🖱 به پوشه `Playexe` بروید و فایل اجرایی بازی را باز کنید.
+
+---
+
+## 🎮 Controls | کنترل‌ها
+
+| Control | Action (English)             | عملکرد (فارسی)                             |
+|---------|------------------------------|--------------------------------------------|
+| W       | Move forward                 | حرکت به جلو                                 |
+| A       | Move left                    | حرکت به چپ                                  |
+| S       | Move backward                | حرکت به عقب                                 |
+| D       | Move right                   | حرکت به راست                                |
+| Right Click | Shoot                    | شلیک                                        |
+| Left Click  | Zoom in                  | بزرگ‌نمایی                                   |
+| Space       | Enable mouse control     | فعال‌سازی موس (برای منو)                     |
+| Left Shift + Space | Disable mouse     | غیرفعال‌سازی موس                            |
+| E           | Pick up or Open          | برداشتن یا باز کردن (تفنگ، کلید، چراغ‌قوه)   |
+
+---
+
+## 👤 Author | نویسنده
+
+- GitHub: [M-Amin-Kiani](https://github.com/M-Amin-Kiani)
+- Developer & Designer of the game  
+- توسعه‌دهنده و طراح بازی
+
+---
+
+## 📜 License | مجوز
+
+This project is licensed under the MIT License.  
+این پروژه تحت مجوز MIT منتشر شده است.
+
+---
+
+## 💬 Support | پشتیبانی
+
+If you encounter any issues or bugs, feel free to open an issue in the repository.  
+در صورت وجود مشکل یا سؤال، لطفاً یک issue در گیت‌هاب باز کنید.
+
+---
+
+Enjoy the horror adventure!  
+از ماجراجویی ترسناک لذت ببرید!
+
+
+--------------------------------------------------------------------------------------------------------------
 # 3D Horror Game
 How To Play?
 - First just extract the " sharedassets2.assets.rar " file on where it is ( AloneInTransylvania_Data )
